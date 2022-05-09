@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a,b){return {staticAssetsBase:"https:\u002F\u002Fsmorgasbord-dist.s3.us-east-1.amazonaws.com\u002Fstatic\u002F1652120834",layout:"module",error:b,state:b,serverRendered:false,routePath:a,config:{_app:{basePath:a,assetsPath:a,cdnURL:"https:\u002F\u002Fsmorgasbord-dist.s3.us-east-1.amazonaws.com\u002F"},content:{dbHash:"fa1c6de4"}}}}("\u002F",null));
